@@ -1,4 +1,3 @@
-https://hub.docker.com
 hamstershare/oh-cloudhis-frontend
 hamstershare/oh-cloudhis-backend
 redis
